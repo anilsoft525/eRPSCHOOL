@@ -20,7 +20,7 @@
 <body bgcolor="#ffffff">
 	<div class="container">
 		<img src="../images/group.png" class="rounded" alt="Cinque Terre"
-			width="370" height="236">
+			width="370" height="2367">
 	</div>
 </body>
 </html>
