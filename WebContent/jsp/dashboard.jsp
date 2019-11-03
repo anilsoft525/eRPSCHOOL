@@ -16,12 +16,11 @@
 	src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href ="style.css">
 </head>
 <body bgcolor="#ffffff">
 	<div class="container">
-		<img src="../images/group.png" class="img-fluid"
-			alt="Cinque Terre" width="370" height="23634">
+		<img src="../images/group.png" class="rounded" alt="Cinque Terre"
+			width="370" height="2367">
 	</div>
 </body>
 </html>
