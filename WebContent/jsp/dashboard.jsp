@@ -21,7 +21,7 @@
 <body bgcolor="#ffffff">
 	<div class="container">
 		<img src="../images/group.png" class="img-fluid"
-			alt="Cinque Terre" width="370" height="236">
+			alt="Cinque Terre" width="370" height="23600">
 	</div>
 </body>
 </html>
